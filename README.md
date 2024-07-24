@@ -1,3 +1,6 @@
+![logo](https://i.postimg.cc/VL6RV8qF/main-logo-2.png)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Embedded System Engineer<br>👯 I’m interested in Software & Firmware development<br>🤝 I’m looking for help with developing<br>🌱 I’m currently learning<br>💬 Ask me anything about Matlab, C++, C, Nordic, Protenus & IOT<br>⚡ Fun fact - I never stop learning
 
